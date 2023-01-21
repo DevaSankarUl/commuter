@@ -38,7 +38,6 @@ The application is built with:
 - Express
 - Tailwind
 - Material UI
-- Socket.IO
 - Nodemailer
 - Stripe
 
