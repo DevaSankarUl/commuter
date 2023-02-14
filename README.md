@@ -45,9 +45,8 @@ The application is built with:
 ## Features
 
 - SignUp, and log in With the JWT token
-- Admin Page, Block User, approve driver
+- Admin Page, Block User,Block driver
 - Create, Edit, Delete Post
-- Live Chat, Integrated with Socket I/O
 - Book a trip 
 - Payment using stripe 
 
